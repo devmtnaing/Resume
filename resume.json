@@ -1,0 +1,161 @@
+{
+  "basics": {
+    "name": "Min Thet Naing",
+    "label": "Programmer",
+    "picture": "",
+    "email": "me@minthetnaing.xyz",
+    "phone": "+65-87498533",
+    "website": "http://minthetnaing.xyz",
+    "summary": "My previous experiences and projects were mainly specialised in web development: backend, front-end, and to server deployment.   Although ruby is my strongest language, I also have great deal of interests in different programming paradigms. The concepts are those which please me not the syntax.  I always keep abreast with the web technology trends. I like to read and learn new things on daily basic for both professional and personal growth",
+    "location": {
+      "address": "1 Sim Ming Wallk",
+      "postalCode": "575574",
+      "city": "Singapore",
+      "countryCode": "SG",
+      "region": "Singapore"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "@mtnaing_coder",
+        "url": "https://twitter.com/mtnaing_coder"
+      },
+      {
+        "network": "Github",
+        "username": "devmtnaing",
+        "url": "https://github.com/devmtnaing"
+      },
+      {
+        "network": "Linkedin",
+        "username": "Min Thet Naing",
+        "url": "https://www.linkedin.com/in/mtnaing"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "RNC Global",
+      "position": "Full Stack Developer",
+      "website": "http://rncglobal.sg",
+      "startDate": "2016-05-01",
+      "summary": "",
+      "highlights": [
+        "Built Internal Dashboard for tracking sales and customers across different marketplace",
+        "Implemented automation for some of the daily checking and updating tasks",
+        "Wrote a chrome extension to interact with our amazon storefronts"
+      ]
+    },
+    {
+      "company": "Nex Co.,Ltd",
+      "position": "Senior Web Developer",
+      "website": "http://nexlabs.co",
+      "startDate": "2014-08-01",
+      "endDate": "2016-01-01",
+      "summary": "",
+      "highlights": [
+        "Wrote RESTful API for different clients' projects (ruby on rails)",
+        "Built Web Apps with Angularjs"
+      ]
+    },
+    {
+      "company": "Forever Group Co.,Ltd",
+      "position": "Senior Programmer",
+      "website": "http://www.forevergroup.com.mm",
+      "startDate": "2013-06-01",
+      "endDate": "2014-08-01",
+      "summary": "",
+      "highlights": [
+        "Helped write Media Asset Management in C# on ASP.Net",
+        "Helped write Shooting Schedule WebApp (laravel)",
+        "Helped maintain ongoing POS software"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Rangoon Mapper",
+      "position": "Co-Founding Developer",
+      "website": "http://mapper.rangoon.io",
+      "startDate": "2017-02-01",
+      "summary": "",
+      "highlights": [
+        "Built with React, Redux, Redux-Thunk, Python, GeoJson, Google Maps, Mapbox, SASS, ImmutableJS"
+      ]
+    },
+    {
+      "organization": "Team Deepseed",
+      "position": "Co-Founding Developer",
+      "website": "http://deepseed.co",
+      "startDate": "2017-03-01",
+      "summary": "",
+      "highlights": [
+        "Built with React, Redux, Redux-saga",
+        "react-konva for canvas drawing"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Canberra",
+      "area": "Information Technology",
+      "studyType": "Bachelor",
+      "startDate": "2007-07-01",
+      "endDate": "2010-08-01",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Fujitsu Prize Australia",
+      "date": "2010-08-01",
+      "awarder": "Fujitsu ",
+      "summary": "Our Team of 4 people were awarded Fujitsu Prize for our last year final project. We delivered 'A-code generator' which basically generate 3-Tier Architecture in ASP.Net based on user configuration and set of rules."
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "Rails",
+        "Reat",
+        "Webpack",
+        "nodejs",
+        "CSS3",
+        "SASS",
+        "jQuery"
+      ]
+    },
+    {
+      "name": "Programming Languages",
+      "level": "Master",
+      "keywords": [
+        "Ruby",
+        "Javascript",
+        "PHP",
+        "C#",
+        "Python",
+        "Go"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Very Fluent"
+    },
+    {
+      "language": "Myanmar",
+      "fluency": "Native Speaker"
+    }
+  ],
+  "interests": [],
+  "references": [
+    {
+      "name": "Ye Mon Kyaw",
+      "reference": "He is young, talented and passionate developer, quick learner, always improving himself and keeping in touch with latest technology."
+    }
+  ]
+}
