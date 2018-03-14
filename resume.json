@@ -34,10 +34,22 @@
   },
   "work": [
     {
+      "company": "Perx",
+      "position": "Software Engineer",
+      "website": "http://www.perxtech.com/",
+      "startDate": "2017-08-01",
+      "summary": "",
+      "highlights": [
+        "Build Campaign Management dashboard for different tenants and merchants",
+        "Business insights visulisation with d3js"
+      ]
+    },
+    {
       "company": "RNC Global",
       "position": "Full Stack Developer",
       "website": "http://rncglobal.sg",
       "startDate": "2016-05-01",
+      "endDate": "2017-07-28",
       "summary": "",
       "highlights": [
         "Built Internal Dashboard for tracking sales and customers across different marketplace",
